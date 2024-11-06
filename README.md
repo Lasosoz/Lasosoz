@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Meu nome é Layza, sou uma estudante de informática.</h2>
+<h2 align="left">Olá👋! Meu nome é Layza, e sou uma estudante de informática 💻</h2>
 
 ###
 
@@ -6,15 +6,17 @@
 
 ###
 
-<h5 align="left">Sou designer de aplicativos com experiência em projetos onde tive a oportunidade de desenvolver soluções inovadoras e funcionais, focadas na experiência do usuário.<br><br>Atualmente, estou cursando o 3º ano do ensino médio e também faço um curso técnico em informática em uma instituição federal.</h5>
+<h5 align="left">🌟 Sou designer de aplicativos com experiência em desenvolver soluções criativas e funcionais, sempre com foco na experiência do usuário. <br><br> 🎓 Atualmente, estou cursando o 3º ano do ensino médio e também faço um curso técnico em informática em uma instituição federal.</h5>
+
 
 ###
 
-<h2 align="left">Habilidades</h2>
+<h2 align="left">💼 Habilidades</h2>
 
 ###
 
-<h4 align="left">- Design de interfaces (UI/UX)<br>- Prototipagem<br>- Desenvolvimento de aplicativos móveis<br>- Ferramentas de design (Figma, Canva, PicsArt.)<br>- Ferramentas de edição de vídeo e fotos (Capcut, VSCO, Lightroom, Dazz Cam)</h4>
+<h4 align="left">- 🎨 Design de interfaces (UI/UX)<br>- 📝 Prototipagem<br>- 📱 Desenvolvimento de aplicativos móveis<br>- 🛠️ Ferramentas de design (Figma, Canva, PicsArt)<br>- 🎥 Ferramentas de edição de vídeo e fotos (Capcut, VSCO, Lightroom, Dazz Cam)</h4>
+
 
 ###
 
