@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">🌟 Sou designer de aplicativos com experiência em desenvolver soluções criativas e funcionais, sempre com foco na experiência do usuário. <br><br> 🎓 Atualmente, estou cursando o 3º ano do ensino médio e também faço um curso técnico em informática em uma instituição federal.</h5>
+<h5 align="left">🌟 Sou designer de aplicativos com experiência em desenvolver soluções criativas e funcionais, sempre com foco na experiência do usuário. <br><br> 🎓 Atualmente, estou cursando o 3º ano do ensino médio no Instituto Federal do Maranhão.</h5>
 
 
 ###
