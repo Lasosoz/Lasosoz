@@ -2,6 +2,10 @@
 
 ###
 
+<h6 align="left">Email: layzasoarescortez.trabalho@gmail.com</h6>
+
+###
+
 <h5 align="left">Sou um designer de aplicativos com experiência em projetos onde tive a oportunidade de desenvolver soluções inovadoras e funcionais, focadas na experiência do usuário.<br><br>Atualmente, estou cursando o 3º ano do ensino médio e também faço um curso técnico em informática em uma instituição federal.</h5>
 
 ###
